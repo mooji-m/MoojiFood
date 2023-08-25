@@ -27,6 +27,7 @@ interface FoodDao : BaseDao<Food> {
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     fun insertOrUpdate(food: Food)
 
+
 //    @Insert
 //    fun insertFood(food: Food) //این تابع را پاک میکنم چون در BaseDao وجود دارد
 
