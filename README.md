@@ -5,5 +5,4 @@ The app use local database(Room library)
 
 Photos in the app are randomly selected
 
-https://github.com/mooji-m/MoojiFood/assets/124574973/b5f1da39-476a-40ea-b13f-67e819407ad5
-
+https://github.com/mooji-m/MoojiFood/assets/124574973/45c28128-14e0-4065-9368-3bd1b1731b5a
