@@ -6,7 +6,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".mainScreen.MainScreenActivity">
 
     <LinearLayout
         android:elevation="8dp"
@@ -74,6 +74,7 @@
 
 
     <androidx.recyclerview.widget.RecyclerView
+        android:layoutAnimation="@anim/recycler"
         android:background="?attr/colorSurface"
         tools:listitem="@layout/item_food"
         android:id="@+id/recyclerMain"

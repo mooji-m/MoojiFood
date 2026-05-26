@@ -1,7 +1,7 @@
 package com.mooji.cod.moojifood.room
 
-import android.app.SearchManager
 import androidx.room.*
+import com.mooji.cod.moojifood.model.Food
 
 interface BaseDao<T> {
 

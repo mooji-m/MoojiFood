@@ -1,4 +1,4 @@
-package com.mooji.cod.moojifood
+package com.mooji.cod.moojifood.mainScreen
 
 import android.annotation.SuppressLint
 import android.view.LayoutInflater
@@ -6,7 +6,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.mooji.cod.moojifood.databinding.ItemFoodBinding
-import com.mooji.cod.moojifood.room.Food
+import com.mooji.cod.moojifood.model.Food
 import jp.wasabeef.glide.transformations.RoundedCornersTransformation
 
 class FoodAdapter(private val data:ArrayList<Food>, private val foodEvent: foodEvents) : RecyclerView.Adapter<FoodAdapter.FoodViewHolder>() {

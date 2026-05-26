@@ -1,4 +1,4 @@
-package com.mooji.cod.moojifood.room
+package com.mooji.cod.moojifood.model
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity
