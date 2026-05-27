@@ -1,6 +1,6 @@
 # MoojiFood 🍔
 
-This repository is a native Android project developed 3 years ago, specifically designed to practice, implement, and showcase core software engineering patterns and local persistence in Kotlin. Rather than focusing on complex UI features, the primary goal of this project was to establish a solid, decoupled architecture and safe database operations.
+This repository is a native Android project, specifically designed to practice, implement, and showcase core software engineering patterns and local persistence in Kotlin. Rather than focusing on complex UI features, the primary goal of this project was to establish a solid, decoupled architecture and safe database operations.
 
 <div align="center">
   <video src="https://github.com/mooji-m/MoojiFood/assets/124574973/45c28128-14e0-4065-9368-3bd1b1731b5a
