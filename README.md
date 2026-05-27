@@ -51,4 +51,4 @@ The project maps clean packaging standard guidelines:
 3. Sync Gradle files, build, and run the application on your emulator or physical device.
 
 ## 📝 Developer Note
-Note on Project Scope: This repository serves as a snapshot of my technical timeline and foundational journey into Android architecture. It is intentionally kept simple in terms of design and scope to highlight the underlying engineering mechanics: decoupling logic via MVP, structural data routing, and safe CRUD operations. Left open-source as an honest architectural reference point.
+Note on Project Scope: This repository serves as a snapshot of my technical timeline and foundational journey into Android architecture from 3 years ago. It is intentionally kept simple in terms of design and scope to highlight the underlying engineering mechanics: decoupling logic via MVP, structural data routing, and safe CRUD operations. Left open-source as an honest architectural reference point.
