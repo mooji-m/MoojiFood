@@ -1,10 +1,6 @@
-An educational Android project focused on implementing the MVP architecture pattern and local SQLite persistent storage using Room Database.
-
 # MoojiFood 🍔
 
 This repository is a native Android project developed 3 years ago, specifically designed to practice, implement, and showcase core software engineering patterns and local persistence in Kotlin. Rather than focusing on complex UI features, the primary goal of this project was to establish a solid, decoupled architecture and safe database operations.
-
----
 
 <div align="center">
   <video src="https://github.com/mooji-m/MoojiFood/assets/124574973/45c28128-14e0-4065-9368-3bd1b1731b5a
@@ -54,5 +50,5 @@ The project maps clean packaging standard guidelines:
 
 3. Sync Gradle files, build, and run the application on your emulator or physical device.
 
-📝 Developer Note
+## 📝 Developer Note
 Note on Project Scope: This repository serves as a snapshot of my technical timeline and foundational journey into Android architecture. It is intentionally kept simple in terms of design and scope to highlight the underlying engineering mechanics: decoupling logic via MVP, structural data routing, and safe CRUD operations. Left open-source as an honest architectural reference point.
